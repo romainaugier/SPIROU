@@ -6,7 +6,7 @@ SPIROU is the middle end of the **S**uper **P**owerful compiler trilogy toolchai
 
 | Library | Role |
 |---------|------|
-| **[SPIROU](https://github.com/romainaugier/SPIROU**) | Target-independent IR and optimizations |
+| **[SPIROU](https://github.com/romainaugier/SPIROU)** | Target-independent IR and optimizations |
 | [SPLICE](https://github.com/romainaugier/SPLICE) | Machine IR, instruction selection, register allocation |
 | [SPAsm](https://github.com/romainaugier/SPAsm) | Encoding and object files |
 
